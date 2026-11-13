@@ -7,3 +7,5 @@ An interactive practice quiz for the CompTIA CySA+ (CS0-003) exam, including sce
 Open the live version here: **https://huebrown89.github.io/CySA_Study_Guide/**
 
 The guide is one self-contained file (`index.html`), so you can also download it and open it in any browser.
+
+Looking for the CS0-004 version? It's at **https://huebrown89.github.io/CySA_Study_Guide_004/**
